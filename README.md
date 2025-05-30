@@ -2,7 +2,7 @@
 
 A simple project for the ESP8266 (NodeMCU) that pings a target IP address and displays the result on a 128x64 OLED screen (SSD1306). Useful for network diagnostics or monitoring the availability of a specific host.
 
-![NodeMCU + OLED](https://raw.githubusercontent.com/bar5um/NodeMCUPinger1306/main/preview.jpg) <!-- Replace with an actual image if available -->
+![NodeMCU + OLED](/NodeMCUPinger1306.png)
 
 ## ✨ Features
 
