@@ -14,8 +14,8 @@
 #define OLED_RESET     -1 // Reset pin # (or -1 if sharing Arduino reset pin)
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
-const char* ssid = "ASTRO";
-const char* password = "playstation74";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 
 void setup() {
     // SSD1306_SWITCHCAPVCC = generate display voltage from 3.3V internally
