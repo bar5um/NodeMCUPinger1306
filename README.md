@@ -27,10 +27,10 @@ A simple project for the ESP8266 (NodeMCU) that pings a target IP address and di
 2. **Open the `.ino` file** in the Arduino IDE.
 
 3. **Install required libraries** via the Arduino Library Manager:
-   - `ESP8266WiFi`
+   - `ESP8266WiFi v3.0.2`
    - `Adafruit GFX Library`
    - `Adafruit SSD1306`
-   - `Ping`
+   - `ESP8266Ping`
 
 4. **Configure your WiFi credentials** in the sketch:
    ```cpp
